@@ -1,1 +1,1 @@
-# filtrable-list using javascript
+# filtrable-list using  javaScript
